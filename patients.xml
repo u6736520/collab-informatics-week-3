@@ -9,7 +9,7 @@
   <patient id="P-102" status="stable">
     <name>Paing Paing</name>
     <ward>General Ward</ward>
-    <condition>Flu & Fever</condition>
+    <condition>Flu &amp; Fever</condition>
     <observation code="HR" unit="bpm">75</observation>
   </patient>
 
